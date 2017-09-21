@@ -2,7 +2,7 @@
 This simple setup script aims at automatically installing all needed programs for the Systems Programming and Computer Architecture course.  
   
 ## Requirements
-This should work on Windows, Mac as well as Linux, it was so far only tested on Linux! If you run it on a Windows or Mac machine, please let me know at hello@pascalwacker.ch, if you run in any problems, you can also contact me there!  
+This should work on Windows, Mac as well as Linux, it was so far only tested on Linux and Windows! If you run it on a Mac machine, please let me know at hello@pascalwacker.ch, if you run in any problems, you can also contact me there!  
 ### Software you need to install 
 - Vagrant (https://www.vagrantup.com/)
 - VirtualBox (https://www.virtualbox.org/)  
